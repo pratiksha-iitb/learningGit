@@ -1,0 +1,22 @@
+/* Reset default spacing */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+/* Heading style */
+h1 {
+  color: #333;
+  margin-top: 50px;
+  font-size: 36px;
+}
+
+/* Paragraph style */
+p {
+  color: red;
+  font-size: 18px;
+  margin-top: 20px;
+}
